@@ -1,15 +1,6 @@
 {
   "events": [
     {
-      "id": "052821bc",
-      "title": "Balticon 55",
-      "description": "The Maryland Regional Science Fiction and Fantasy Convention",
-      "fullDescription": "Balticon programming covers a wide variety of topics of interest to science fiction and fantasy fans, with panels and presentations covering a books, writing, science, music, and TV. Readings, discussions, and kaffeeklatsches will allow more informal chatter with your favorite guests. Balticon gaming includes board games, RPGs, and an annual LARP. Balticon has both an Art Show and an Artists’ Alley.",
-      "date": "May 28-31, 2021",
-      "location": "Virtual",
-      "url": "https://www.balticon.org/wp55/"
-    },
-    {
       "id": "060421cc",
       "title": "ConCarolinas 2021",
       "description": "Carolina's Longest Running Multi-Fandom Con",
