@@ -89,6 +89,15 @@
       "date": "October 1-3, 2021",
       "location": "Denver, CO",
       "url": "https://milehicon.org"
+    },
+    {
+      "id": "111221tc",
+      "title": "TusCon 48",
+      "description": "The Best Little Sci-Fi, Fantasy & Horror Convention in Arizona",
+      "fullDescription": "The primary focus of TusCon is science fiction, fantasy and horror, but we also pay attention to art, animation, science, media and gaming.",
+      "date": "November 12-14, 2021",
+      "location": "Tucson, AZ",
+      "url": "https://tusconscificon.com"
     }
   ]
 }
