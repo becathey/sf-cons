@@ -1,15 +1,6 @@
 {
   "events": [
     {
-      "id": "060421cc",
-      "title": "ConCarolinas 2021",
-      "description": "Carolina's Longest Running Multi-Fandom Con",
-      "fullDescription": "ConCarolinas programming is designed to be fun and educational with an emphasis on visual arts, literary arts, and performing arts.  We tie that all together with our love of science fiction, fantasy, superheroes, and gaming.  We also hold an annual Charity Auction and blood drive, in addition to coordinating with other charitable causes our guests are passionate about.",
-      "date": "June 4-6, 2021",
-      "location": "Charlotte, NC",
-      "url": "https://concarolinas.org"
-    },
-    {
       "id": "062521lc",
       "title": "LibertyCon 33",
       "description": "A Tennessee Literary Sci-Fi Convention",
