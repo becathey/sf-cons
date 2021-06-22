@@ -107,6 +107,14 @@
       "date": "November 19-21, 2021",
       "location": "Cherry Hill, NJ",
       "url": "https://philcon.org"
+    },
+    {
+      "id": "011422mc",
+      "title": "MarsCon 2022",
+      "description": "Tidewater Virginia's Longest Running Convention",
+      "date": "January 14-16, 2022",
+      "location": "Williamsburg, VA",
+      "url": "http://www.marscon.net/wp/"
     }
   ]
 }
