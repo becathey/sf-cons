@@ -116,6 +116,15 @@
       "date": "January 14-16, 2022",
       "location": "Williamsburg, VA",
       "url": "http://www.marscon.net/wp/"
+    },
+    {
+      "id": "011422ar",
+      "title": "Arisia 2022",
+      "description": "New England's Largest, Most Diverse Sci-Fi & Fantasy Convention",
+      "fullDescription": "Each January for over 30 years, the Arisia convention has brought together fans from around the world to celebrate the best and brightest stars in the science fiction and fantasy genres. Based in Boston, our four-day volunteer-run con features unique entertainment and learning opportunities that led to Arisia winning the title of Best Fan Gathering in the 'Best in Boston' awards for 2016!",
+      "date": "January 14-17, 2022",
+      "location": "Boston, MA",
+      "url": "https://arisia.org"
     }
   ]
 }
