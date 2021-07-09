@@ -1,2 +1,2 @@
-# sf-cons
-Science Fiction Cons
+# SF Cons DB
+A listing of Science Fiction Conventions
