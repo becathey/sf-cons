@@ -1,15 +1,6 @@
 {
   "events": [
     {
-      "id": "071621bdc",
-      "title": "blerDCon 2021",
-      "description": "An event that highlights and celebrates Blerd culture",
-      "fullDescription": "Blerdcon is an event that highlights and celebrates Blerd culture and creates a marketplace of ideas where sharing that culture can take place with proper context, attribution and positivity in an inclusive environment. Blerdcon celebrates our connection with LGBTQ, the disabled, POCs and the international community! All are welcome to partake in the experience as we are an open community who love all the same nerddom.",
-      "date": "July 16-18, 2021",
-      "location": "Arlington, VA",
-      "url": "https://blerdcon.com"
-    },
-    {
       "id": "081221mc",
       "title": "MegaCon Orlando",
       "description": "The South East's largest comics, sci-fi, horror, anime, and gaming event",
