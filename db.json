@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "id": "081221mc",
-      "title": "MegaCon Orlando",
-      "description": "The South East's largest comics, sci-fi, horror, anime, and gaming event",
-      "fullDescription": "MEGACON Orlando is the South East’s largest comics, sci-fi, horror, anime, and gaming event that attracts hundreds of thousands of people across four BIG days. Every year, MEGACON Orlando offers exciting family-friendly attractions, events, and world-renowned Celebrities! Everyone is a fan of something, and MEGACON Orlando is a place to celebrate all things pop culture.",
-      "date": "August 12-15, 2021",
-      "location": "Orlando, FL",
-      "url": "https://fanexpohq.com/megaconorlando/"
-    },
-    {
-      "id": "081321rc",
-      "title": "Readercon 31",
-      "description": "The conference on imaginative literature",
-      "fullDescription": "Although Readercon is modeled on 'science fiction conventions,' we have no art show, no costumes, no gaming, and almost no media. Instead, Readercon features a near-total focus on the written word. In many years the list of Readercon guests rivals or surpasses that of the Worldcon in quality. Readercon is the only small convention regularly attended by such giants of imaginative literature as Samuel R. Delany, Ellen Datlow, Amal El-Mohtar, John Crowley, Greer Gilman, and Catherynne M. Valente.",
-      "date": "August 13-15, 2021",
-      "location": "Virtual",
-      "url": "https://www.readercon.org"
-    },
-    {
       "id": "082021ac",
       "title": "AwesomeCon",
       "description": "Washington DC's Comic Con",
