@@ -1,15 +1,6 @@
 {
   "events": [
     {
-      "id": "090221dc",
-      "title": "DragonCon",
-      "description": "Multi-media, pop culture convention focusing on science fiction & fantasy, gaming, comics, literature, art, music, and film",
-      "fullDescription": "Dragon Con is the largest multi-media, pop culture convention focusing on science fiction & fantasy, gaming, comics, literature, art, music, and film in the universe – and the best place to celebrate all of these things with fellow fans on Labor Day Weekend.",
-      "date": "September 2-6, 2021",
-      "location": "Atlanta, GA",
-      "url": "https://www.dragoncon.org"
-    },
-    {
       "id": "100121cc",
       "title": "Capclave 2021",
       "description": "Literary convention focusing on the short fiction form",
