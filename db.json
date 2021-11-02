@@ -71,6 +71,15 @@
       "date": "February 25-27, 2022",
       "location": "Roanoke, VA",
       "url": "https://mysticon-va.com/"
+    },
+    {
+      "id": "042922rc",
+      "title": "RavenCon 15",
+      "description": "A weekend celebrating the genres of science fiction, fantasy, mystery, and horror.",
+      "fullDescription": "RavenCon is a science fiction & fantasy convention that features over 12 continuous tracks of programming. More than 120 writers, fans, artists, scientists, musicians, gamers, filmmakers, and costumers will be available for discussions, panels, readings, and signings. There’s also anime, concerts, parties, workshops, children’s programming, vendors, a film festival, and our famous Gaming Room that never closes.",
+      "date": "April 29-May 1, 2022",
+      "location": "Williamsburg, VA",
+      "url": "https://www.ravencon.com"
     }
   ]
 }
