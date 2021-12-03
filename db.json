@@ -62,6 +62,15 @@
       "date": "April 29-May 1, 2022",
       "location": "Williamsburg, VA",
       "url": "https://www.ravencon.com"
+    },
+    {
+      "id": "052722wc",
+      "title": "Wiscon",
+      "description": "A feminist science fiction & fantasy convention.",
+      "fullDescription": "WisCon has grown from a small regional convention to a large, truly international convention, with attendees traveling from all over the world in order to meet other fans and professionals with similar interests. Our convention has grown up to become the annual gathering for the feminist SF community. It also functions as a vibrant meeting place for fans and professionals interested in broader themes of gender, race, and class in Science Fiction and Fantasy.",
+      "date": "May 27-May 30, 2022",
+      "location": "Madison, WI",
+      "url": "http://wiscon.net"
     }
   ]
 }
