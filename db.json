@@ -44,6 +44,15 @@
       "date": "May 27-May 30, 2022",
       "location": "Madison, WI",
       "url": "http://wiscon.net"
+    },
+    {
+      "id": "060322ac",
+      "title": "Awesome Con",
+      "description": "Washington DC's Comic Con!",
+      "fullDescription": "Awesome Con is Washington DC's Comic Con! Awesome Con is a celebration of geek culture, bringing over 70,000 fans together with their favorite stars from across comics, movies, television, toys, games, and more! And just like DC, we're smart, family-friendly, and inclusive — as Awesome Con is home to: The Science Fair, an area of Awesome Con exploring where science and science fiction meet!; The Book Fair, an area of Awesome Con dedicated to authors and book dragons alike!; Awesome Con Jr, an all-ages destination for the next generation of fans; Pride Alley, a celebration of queer creators and fans curated by GeeksOUT",
+      "date": "June 3-June 5, 2022",
+      "location": "Washington, DC",
+      "url": "https://awesome-con.com"
     }
   ]
 }
