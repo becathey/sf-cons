@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "id": "022522fp",
-      "title": "Farpoint 29",
-      "description": "An annual gathering for fans of all genres of imaginative fiction",
-      "fullDescription": "Farpoint Convention is an annual gathering for fans of all genres of imaginative fiction – Science Fiction, Fantasy, Horror, SuperHeroes – in all the media formats in which they might appear – Cinematic Movies, Television, Podcasts, Web Video – you name it, we want to celebrate it! Our mission is to bring fans together to learn from and support each other in their genre interests. You are an active participant in the Farpoint Convention experience to the extent you desire and are most comfortable with. It’s about community and coming together for spirited discussions about the things in fandom that we are so passionate about. It’s about geeking out as a fandom family over our favorite shows, books and movies, gaming and cosplaying and learning together.",
-      "date": "February 25-27, 2022",
-      "location": "Hunt Valley, MD",
-      "url": "http://www.farpointcon.com"
-    },
-    {
-      "id": "022522mc",
-      "title": "MystiCon",
-      "description": "An awesome weekend of SciFi, Fantasy and Pop Culture",
-      "fullDescription": "The original MystiCon, which took place over July 4th weekend in 1980 was considered a big party by most, but has recently been revived to take place in our favorite Roanoke, VA location, the Tanglewood Holiday Inn. The location and time of year that MystiCon takes place is one that fans, family and friends alike have come to rely on for an awesome weekend of SciFi, Fantasy and Pop Culture. This convention was resurrected in 2010 by a collection of cool zany and passionate people that wanted to keep the family-friendly traditions of open gaming, enjoyment of different literature, arts, imaginations and camaraderie any Con-goer will surely enjoy!",
-      "date": "February 25-27, 2022",
-      "location": "Roanoke, VA",
-      "url": "https://mysticon-va.com/"
-    },
-    {
       "id": "042922rc",
       "title": "RavenCon 15",
       "description": "A weekend celebrating the genres of science fiction, fantasy, mystery, and horror",
