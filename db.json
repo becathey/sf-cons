@@ -62,6 +62,15 @@
       "date": "June 3-June 5, 2022",
       "location": "Charlotte, NC",
       "url": "https://concarolinas.org"
+    },
+    {
+      "id": "061722lc",
+      "title": "LibertyCon 34",
+      "description": "A Tennessee Literary Sci-Fi Convention",
+      "fullDescription": "LibertyCon is a convention that prides itself on great guests, phenomenal panels, a killer ConSuite and our Family Friendly Atmosphere. We’re a convention that is small on purpose (we limit the attendees to 750, which is actually in our Charter) since we want to give the fans a chance to sit down and chat with the guests.",
+      "date": "June 17-19, 2022",
+      "location": "Chattanooga, TN",
+      "url": "https://libertycon.org/"
     }
   ]
 }
