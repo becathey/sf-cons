@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "id": "052722bc",
-      "title": "Balticon 56",
-      "description": "The Maryland Regional Science Fiction and Fantasy Convention",
-      "fullDescription": "Balticon, the annual regional science fiction & fantasy convention of the Baltimore Science Fiction Society, features authors, editors, publishers, artists, filmmakers, and, most importantly, fans. Balticon has speeches by our guests, author readings, panels, slide shows, films, videos, an art show, a dealers room, board gaming, card gaming (collectible and otherwise), computer gaming, a masquerade show (costume contest), science programming, a writer's workshop, and much, much more.",
-      "date": "May 27-30, 2022",
-      "location": "Baltimore, MD",
-      "url": "https://www.balticon.org/wp56/"
-    },
-    {
-      "id": "052722wc",
-      "title": "Wiscon",
-      "description": "A feminist science fiction & fantasy convention",
-      "fullDescription": "WisCon has grown from a small regional convention to a large, truly international convention, with attendees traveling from all over the world in order to meet other fans and professionals with similar interests. Our convention has grown up to become the annual gathering for the feminist SF community. It also functions as a vibrant meeting place for fans and professionals interested in broader themes of gender, race, and class in Science Fiction and Fantasy.",
-      "date": "May 27-May 30, 2022",
-      "location": "Madison, WI",
-      "url": "http://wiscon.net"
-    },
-    {
       "id": "060322ac",
       "title": "Awesome Con",
       "description": "Washington DC's Comic Con!",
