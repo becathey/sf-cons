@@ -35,6 +35,15 @@
       "date": "September 30-October 2, 2022",
       "location": "Rockville, MD",
       "url": "https://www.capclave.org/"
+    },
+    {
+      "id": "111122tc",
+      "title": "TusCon 49",
+      "description": "The Best Little Sci-Fi, Fantasy & Horror Convention in Arizona",
+      "fullDescription": "Attendees of TusCon are among the most dedicated fans of science fiction, fantasy, and horror and many attendees are professional writers, film producers, artists, and reporters who keep others informed about the goings-on in the industry. TusCon is an annual science fiction convention sponsored by the Baja Arizona Science Fiction Association (BASFA). The primary focus of TusCon is science fiction, fantasy and horror, but we also pay attention to art, animation, science, media and gaming.",
+      "date": "November 11-13, 2022",
+      "location": "Tucson, AZ",
+      "url": "https://tusconscificon.com/"
     }
   ]
 }
