@@ -1,15 +1,6 @@
 {
   "events": [
     {
-      "id": "090122dc",
-      "title": "Dragon Con",
-      "description": "The largest multi-media, popular culture convention focusing on science fiction & fantasy, gaming, comics, literature, art, music, and film in the universe",
-      "fullDescription": "Dragon Con is the largest multi-media, pop culture convention focusing on science fiction & fantasy, gaming, comics, literature, art, music, and film in the universe. Over three decades, Dragon Con has grown from the little Atlanta convention that defied the rules to one of the largest pop culture conventions in the world. Along the way, it changed the expectations for a successful convention. While small cons still focus on one or two genres, the largest ones combine literature, television & movies, comics and gaming, just as Dragon Con did for the first time back in 1987.",
-      "date": "September 1-5, 2022",
-      "location": "Atlanta, GA",
-      "url": "https://www.dragoncon.org/"
-    },
-    {
       "id": "093022cc",
       "title": "Capclave 2022",
       "description": "Where reading is not extinct",
