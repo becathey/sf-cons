@@ -44,6 +44,15 @@
       "date": "November 25-27, 2022",
       "location": "Hunt Valley, MD",
       "url": "https://chessiecon.org"
+    },
+    {
+      "id": "011323ar",
+      "title": "Arisia 2023",
+      "description": "New England's Largest, Most Diverse Sci-Fi & Fantasy Convention",
+      "fullDescription": "Each January for over 30 years, the Arisia convention has brought together fans from around the world to celebrate the best and brightest stars in the science fiction and fantasy genres. Based in Boston, our four-day volunteer-run con features unique entertainment and learning opportunities that led to Arisia winning the title of Best Fan Gathering in the 'Best in Boston' awards for 2016!",
+      "date": "January 13-16, 2023",
+      "location": "Boston, MA",
+      "url": "https://arisia.org"
     }
   ]
 }
