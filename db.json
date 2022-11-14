@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "id": "111122tc",
-      "title": "TusCon 49",
-      "description": "The Best Little Sci-Fi, Fantasy & Horror Convention in Arizona",
-      "fullDescription": "Attendees of TusCon are among the most dedicated fans of science fiction, fantasy, and horror and many attendees are professional writers, film producers, artists, and reporters who keep others informed about the goings-on in the industry. TusCon is an annual science fiction convention sponsored by the Baja Arizona Science Fiction Association (BASFA). The primary focus of TusCon is science fiction, fantasy and horror, but we also pay attention to art, animation, science, media and gaming.",
-      "date": "November 11-13, 2022",
-      "location": "Tucson, AZ",
-      "url": "https://tusconscificon.com/"
-    },
-    {
-      "id": "111122wc",
-      "title": "Windycon 48",
-      "description": "Chicagoland's longest running science fiction convention",
-      "fullDescription": "Windycon is Chicagoland's longest running science fiction convention. Our attendance is usually around 1,200 members. This makes Windycon a more intimate event than the mega conventions. A large aspect of our convention is the time you can spend having great conversations with friends, panelists, and even the Guests. Attendees are generally interested in a broad spectrum of science fiction and fantasy topics. This can include, but is not limited to: steampunk, dragons, fairies, robots, anime, zombies, pirates, ninjas, astrophysics, gaming, horror, space operas, urban fantasy, vampires, time travel, and cats. At our core, we are a literary based convention. We have an annual Short Story contest and a Writer's Workshop, where seasoned authors and editors help aspiring writers with their works-in-progress.",
-      "date": "November 11-13, 2022",
-      "location": "Lombard, IL",
-      "url": "https://windycon.org"
-    },
-    {
       "id": "111822pc",
       "title": "Philcon",
       "description": "The world's first and longest-running conference on science fiction, fantasy, and horror",
