@@ -10,6 +10,15 @@
       "url": "https://arisia.org"
     },
     {
+      "id": "012023cf",
+      "title": "ConFusion",
+      "description": "The longest-running fan-run SF/F convention in Michigan",
+      "fullDescription": "In addition to being the longest-running fan-run SF/F convention in Michigan, ConFusion is a premier event for publishing professionals and fans alike. It is hailed as a place to experience programming and guests on the caliber you find at a WorldCon, while located in a convenient and affordable setting.",
+      "date": "January 20-22, 2023",
+      "location": "Novi, MI",
+      "url": "http://confusionsf.org/"
+    },
+    {
       "id": "021023fp",
       "title": "Farpoint 30",
       "description": "Where creators and fans can learn with and from each other",
@@ -17,6 +26,15 @@
       "date": "February 10-12, 2023",
       "location": "Hunt Valley, MD",
       "url": "https://www.farpointcon.com"
+    },
+    {
+      "id": "021723bk",
+      "title": "Boskone 60",
+      "description": "The longest-running science fiction & fantasy convention in New England",
+      "fullDescription": "Brought to you by the New England Science Fiction Association (NESFA), Boskone is an annual science fiction convention,  the oldest in New England. NESFA is a non-profit 501(c)3  corporation and both NESFA and Boskone are run and put on entirely by fan volunteers.",
+      "date": "February 17-19, 2023",
+      "location": "Boston, MA",
+      "url": "https://boskone.org/"
     }
   ]
 }
