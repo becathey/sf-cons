@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "id": "011323ar",
-      "title": "Arisia 2023",
-      "description": "New England's Largest, Most Diverse Sci-Fi & Fantasy Convention",
-      "fullDescription": "Each January for over 30 years, the Arisia convention has brought together fans from around the world to celebrate the best and brightest stars in the science fiction and fantasy genres. Based in Boston, our four-day volunteer-run con features unique entertainment and learning opportunities that led to Arisia winning the title of Best Fan Gathering in the 'Best in Boston' awards for 2016!",
-      "date": "January 13-16, 2023",
-      "location": "Boston, MA",
-      "url": "https://arisia.org"
-    },
-    {
-      "id": "012023cf",
-      "title": "ConFusion",
-      "description": "The longest-running fan-run SF/F convention in Michigan",
-      "fullDescription": "In addition to being the longest-running fan-run SF/F convention in Michigan, ConFusion is a premier event for publishing professionals and fans alike. It is hailed as a place to experience programming and guests on the caliber you find at a WorldCon, while located in a convenient and affordable setting.",
-      "date": "January 20-22, 2023",
-      "location": "Novi, MI",
-      "url": "http://confusionsf.org/"
-    },
-    {
       "id": "021023fp",
       "title": "Farpoint 30",
       "description": "Where creators and fans can learn with and from each other",
