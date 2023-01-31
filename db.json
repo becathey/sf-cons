@@ -17,6 +17,15 @@
       "date": "February 17-19, 2023",
       "location": "Boston, MA",
       "url": "https://boskone.org/"
+    },
+    {
+      "id": "042123rc",
+      "title": "RavenCon 16",
+      "description": "RavenCon is a 3-day event that covers everything you love about science fiction, fantasy, and horror",
+      "fullDescription": "RavenCon is a Science Fiction & Fantasy Convention that features eleven continuous tracks of programming (over 250 hours!). More than 100 writers, fans, artists, scientists, musicians, gamers, filmmakers, and costumers will be available for discussions, panels, readings, and signings. There's also concerts, parties, workshops, vendors, 2 Escape Rooms, and our famous Gaming Room that never closes. Plus, there's always a surprise or two up our sleeves. We guarantee, there's always something fun to do at RavenCon!",
+      "date": "April 21-23, 2023",
+      "location": "Richmond, VA",
+      "url": "https://www.ravencon.com"
     }
   ]
 }
