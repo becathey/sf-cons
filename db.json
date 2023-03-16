@@ -8,6 +8,15 @@
       "date": "April 21-23, 2023",
       "location": "Richmond, VA",
       "url": "https://www.ravencon.com"
+    },
+    {
+      "id": "052623wc",
+      "title": "Wiscon 46",
+      "description": "The annual gathering for the feminist SF community",
+      "fullDescription": "WisCon has grown from a small regional convention to a large, truly international convention, with attendees traveling from all over the world in order to meet other fans and professionals with similar interests. Our convention has grown up to become the annual gathering for the feminist SF community. It also functions as a vibrant meeting place for fans and professionals interested in broader themes of gender, race, and class in Science Fiction and Fantasy.",
+      "date": "May 26-29, 2023",
+      "location": "Madison, WI",
+      "url": "http://wiscon.net"
     }
   ]
 }
