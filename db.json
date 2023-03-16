@@ -1,15 +1,6 @@
 {
   "events": [
     {
-      "id": "021723bk",
-      "title": "Boskone 60",
-      "description": "The longest-running science fiction & fantasy convention in New England",
-      "fullDescription": "Brought to you by the New England Science Fiction Association (NESFA), Boskone is an annual science fiction convention,  the oldest in New England. NESFA is a non-profit 501(c)3  corporation and both NESFA and Boskone are run and put on entirely by fan volunteers.",
-      "date": "February 17-19, 2023",
-      "location": "Boston, MA",
-      "url": "https://boskone.org/"
-    },
-    {
       "id": "042123rc",
       "title": "RavenCon 16",
       "description": "RavenCon is a 3-day event that covers everything you love about science fiction, fantasy, and horror",
