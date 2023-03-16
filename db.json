@@ -17,6 +17,15 @@
       "date": "May 26-29, 2023",
       "location": "Madison, WI",
       "url": "http://wiscon.net"
+    },
+    {
+      "id": "052623bc",
+      "title": "Balticon 57",
+      "description": "A four-day celebration of Science Fiction and Fantasy!",
+      "fullDescription": "Join over fifteen hundred fans of all backgrounds as we gather to celebrate Science Fiction and Fantasy with more than 300 hours of diverse programming, from award winning authors and publishers to twitch live-streamers, from cosplay experts to renowned scientists and tech innovators. Sing along with our filkers, soak in our stunning Art Show and Masquerade, laugh and cry at our Film Festival. We've got something for everyone.",
+      "date": "May 26-29, 2023",
+      "location": "Baltimore, MD",
+      "url": "https://www.balticon.org"
     }
   ]
 }
